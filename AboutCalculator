@@ -1,0 +1,13 @@
+# calculator
+This is a Calculator Application which can be used by you in your desktop (windows).
+This calculator can handle decimals as well as float values, with data and time support.
+and the operation you can perform here are the following:-
+multiply - ( x )
+add - ( + )
+sub - ( - )
+divide - ( / )
+power - ( ^ )
+square root - ( sqroot )
+del - ( deleting last char )
+time - ( know current date and time )
+abs - (abs value)
